@@ -6,7 +6,6 @@ A real-time psychedelic visualizer built in C++ using SDL2, OpenGL 3.3, and GLSL
 
 This project renders GPU-based procedural visuals including liquid distortion,
 kaleidoscope symmetry, color cycling, and starfield effects.
-Play HERE ->>>>> https://sdg5-hub.github.io/AcidTrip/
 ---
 
 ## ✨ Features
