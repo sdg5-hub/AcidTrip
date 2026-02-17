@@ -36,9 +36,22 @@ kaleidoscope symmetry, color cycling, and starfield effects.
 
 ---
 \
+## ▶️ Run Locally
+
+### macOS
+
+```bash
+brew install cmake sdl2
+git clone https://github.com/sdg5-hub/AcidTrip.git
+cd AcidTrip
+cmake -S . -B build
+cmake --build build -j
+./build/AcidTrip
 
 ## 🛠 Build (macOS)
 
 ### Install dependencies
 ```bash
 brew install cmake sdl2
+
+
