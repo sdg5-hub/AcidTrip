@@ -1,0 +1,3 @@
+/Users/osamahgilani/Documents/New project/AcidTrip/build/CMakeFiles/AcidTrip.dir
+/Users/osamahgilani/Documents/New project/AcidTrip/build/CMakeFiles/edit_cache.dir
+/Users/osamahgilani/Documents/New project/AcidTrip/build/CMakeFiles/rebuild_cache.dir
